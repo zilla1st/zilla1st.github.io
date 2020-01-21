@@ -12,11 +12,12 @@ Hier wird ein Screenshot eingefügt..
 
 ![](/images/100002010000024B0000006D0CB7F2B069FC12F6.png)
 
+{% include image-r url="10000201000000630000006FC0B61C0D76045959.png" %}
 .. und dann geht es mit Text weiter.
 
 Und dann kommt der Test.
 
-{% include image-r url="10000201000000630000006FC0B61C0D76045959.png" %}
+
 
 Text links, Bild rechts davon
 
