@@ -10,7 +10,7 @@ Das war ein Umbruch.
 
 Hier wird ein Screenshot eingefügt..
 
-![](images/100002010000024B0000006D0CB7F2B069FC12F6.png)
+{% include screenshot url="zilla1st.github.io/100002010000024B0000006D0CB7F2B069FC12F6.png" %}
 
 .. und dann geht es mit Text weiter.
 
