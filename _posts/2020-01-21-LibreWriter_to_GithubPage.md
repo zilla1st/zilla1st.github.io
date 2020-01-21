@@ -25,4 +25,4 @@ Cmd-Line Befehl:
 pandoc -o 2020-01-21-LibreWriter\_to\_GithubPage.md --extract-media=2020-01-21-LibreWriter\_to\_GithubPage/ 2020-01-21-LibreWriter\_to\_GithubPage.odt -w gfm --atx-headers --columns 9999
 
 
-{% include screenshot url="10000201000000630000006FC0B61C0D76045959.png" %}
+{% include screenshot url="zilla1st.github.io/images/2020-01-21-LibreWriter_to_GithubPage/100002010000024B0000006D0CB7F2B069FC12F6.png" %}
