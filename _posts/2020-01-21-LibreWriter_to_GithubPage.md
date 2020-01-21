@@ -10,9 +10,15 @@ Das war ein Umbruch.
 
 Hier wird ein Screenshot eingefügt..
 
-![](/images/2020-01-21-LibreWriter_to_GithubPage/100002010000024B0000006D0CB7F2B069FC12F6.png)
+![](/images/100002010000024B0000006D0CB7F2B069FC12F6.png)
 
 .. und dann geht es mit Text weiter.
+
+Und dann kommt der Test.
+
+![](/images/10000201000000630000006FC0B61C0D76045959.png)
+
+Text links, Bild rechts davon
 
 Cmd-Line Befehl:
 
