@@ -16,7 +16,7 @@ Hier wird ein Screenshot eingefügt..
 
 Und dann kommt der Test.
 
-![](/images/10000201000000630000006FC0B61C0D76045959.png)
+{% include image-r url="10000201000000630000006FC0B61C0D76045959.png" %}
 
 Text links, Bild rechts davon
 
