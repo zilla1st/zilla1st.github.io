@@ -23,3 +23,6 @@ Text links, Bild rechts davon
 Cmd-Line Befehl:
 
 pandoc -o 2020-01-21-LibreWriter\_to\_GithubPage.md --extract-media=2020-01-21-LibreWriter\_to\_GithubPage/ 2020-01-21-LibreWriter\_to\_GithubPage.odt -w gfm --atx-headers --columns 9999
+
+
+{% include screenshot url="10000201000000630000006FC0B61C0D76045959.png" %}
